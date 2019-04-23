@@ -4,11 +4,7 @@ Docker API
 
     Reistry API：与存储Docker镜像的Registry相关的功能。
     Docker Hub API：与Docker Hub相关的功能
+    Docker OAuth API
     Docker Remote API：与Docker守护进程相关的功能。
 
 其中，Docker Remote API是使用最为频繁的API类型，后续我们也将针对此类API展开讲解。
---------------------- 
-作者：WangZhe0912 
-来源：CSDN 
-原文：https://blog.csdn.net/laodengbaiwe0838/article/details/79340805 
-版权声明：本文为博主原创文章，转载请附上博文链接！
